@@ -1,0 +1,12 @@
+# Python and Node Dependencies
+venv/
+node_modules/
+__pycache__/
+*.pyc
+
+# Local Cache and Output Files (CRUCIAL for avoiding large file errors)
+*.pkl
+*.onnx
+*.bin
+*.model
+*.json
